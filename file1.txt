@@ -11,3 +11,16 @@ ten
 
 Alphabets :
 vowels and consonants
+1
+5
+2
+6
+5
+4
+8
+-4
+-5
+-12
+-85
+12
+integers added
